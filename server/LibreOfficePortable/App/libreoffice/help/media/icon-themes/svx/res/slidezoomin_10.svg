@@ -1,1 +1,1 @@
-<svg viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg"><g fill="#3a3a38"><rect height="2" ry="1" width="10" y="4"/><rect height="2" ry=".936441" transform="rotate(90)" width="10" y="-6"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><g fill="#3a3a38"><rect width="10" height="2" y="4" ry="1"/><rect width="10" height="2" y="-6" ry=".936" transform="rotate(90)"/></g></svg>
